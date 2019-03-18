@@ -47,18 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Running locally 
-
-https://www.learnstorybook.com/react/en/get-started/
-
-#### Start the component explorer on port 9009:
-
-`yarn run storybook`
-
-#### Run the frontend app proper on port 3000:
-
-`yarn start`
-
 ### Analyzing the Bundle Size
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
@@ -78,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Running locally 
+
+https://www.learnstorybook.com/react/en/get-started/
+
+#### Start the component explorer on port 9009:
+
+`yarn run storybook`
+
+#### Run the frontend app proper on port 3000:
+
+`yarn start`
+
+Deployed to: https://wizardly-wescoff-d8fdb9.netlify.com/?path=/story/*
